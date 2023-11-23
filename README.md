@@ -67,7 +67,7 @@ P4r4d0x: "That fine, if anyone needs me I'll be in the lab, and can someone get 
 You have been selected by the DC540 ANGLES OF DEATH to be the Reverse Engineer on this mission. Your task is to reverse engineer the `Родной_язык` binary. Report the flag back to, "Master Assembler" with your results by sending a private Discord DM to @P4R4D0X in the D540 Discord channel listed above.
 
 ## HINT
-"You will know you have the flag when you CAN SEE THROUGH THE DARKNESS"
+"You will know you have the flag when you CAN SEE THROUGH THE DARKNESS."
 
 <br>
 
