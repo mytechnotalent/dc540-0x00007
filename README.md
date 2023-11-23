@@ -43,9 +43,7 @@ Bets: "Oh crap. P4R4D0X please tell me we have a lead on this."<br>
 
 P4R4D0X: "Currently all we have is the cracked `Жнец` binary. However, I think that might be the least of our worries espically if Dr. Rinn knows we are here."<br>
 
-Transmission: "Жнецы, Пришло время завершить первый этап протокола OMEGA. Идите в тень и ждите моего сигнала по протоколам уровня АЛЬФА.  Доктор Ринн"
-
-<br>
+Transmission: "Жнецы, Пришло время завершить первый этап протокола OMEGA. Идите в тень и ждите моего сигнала по протоколам уровня АЛЬФА.  Доктор Ринн"<br>
 
 Z: "What is this and what is going on in here?"<br>
 
