@@ -1,6 +1,6 @@
 ![image](https://github.com/mytechnotalent/dc540-0x00007/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
 
-# dc540-0x00006
+# dc540-0x00007
 DC540 hacking challenge 0x00007 [UNKNOWN CTF].
 
 <br>
@@ -21,7 +21,7 @@ DC540 hacking challenge 0x00007 [UNKNOWN CTF].
 
 <br>
 
-Months have passed since the last update at the Khanty-Mansiysk Dark Eyes facility. The world has continued it's decent into madness. The glimmer of hope that ANGELS OF DEATH once provided has seemed to fade for many. Was this a false hope? Are the Dark Eyes to be truly stopped, or have the ANGLES OF DEATH faded away into the darkness?... <br><br>
+Months have passed since the last update at the Khanty-Mansiysk Dark Eyes facility. The world has continued it's decent into madness. The glimmer of hope that ANGELS OF DEATH once provided has seemed to fade for many. Was this a false hope? Are the Dark Eyes to be truly stopped, or have the ANGLES OF DEATH faded away into the darkness?... <br>
 
 P4r4d0x: "SPUD! I think we've done it... I think the REDAH Master and I have solved the `Жнец` binary."<br>
 
