@@ -27,7 +27,7 @@ Months have passed since the last update at the Khanty-Mansiysk Dark Eyes facili
 
 P4r4d0x: "SPUD! I think we've done it... I think the REDAH Master and I have solved the `Жнец` binary."<br>
 
-Spud: "Really?! That's great, but I think it's too late... Here look at this"<br>
+Spud: "Really?! That's great, but I think it's too late... Here look at this!"<br>
 
 News clipping: "HEADLINES: Just in, a new group of nations begins vote during NATO assembly for the dismemberment of NATO and creation of new alliance."<br>
 
