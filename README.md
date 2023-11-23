@@ -27,7 +27,7 @@ P4r4d0x: "SPUD! I think we've done it... I think the REDAH Master and I have sol
 
 Spud: "Really?! That's great, but I think it's too late... Here look at this"<br>
 
-News clipping: "HEADLINES: Just in, a new group of nations begins vote during NATO assembly for the dismemberment of NATO and creation of new allience"<br>
+News clipping: "HEADLINES: Just in, a new group of nations begins vote during NATO assembly for the dismemberment of NATO and creation of new allience."<br>
 
 P4r4d0x: "Oh god! We might be too late..."<br>
 
