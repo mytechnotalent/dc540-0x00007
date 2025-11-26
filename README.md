@@ -1,5 +1,9 @@
 ![image](https://github.com/mytechnotalent/dc540-0x00007/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
 
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 # dc540-0x00007
 DC540 hacking challenge 0x00007 [UNKNOWN CTF].
 
@@ -18,10 +22,6 @@ DC540 hacking challenge 0x00007 [UNKNOWN CTF].
 <br>
 
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
-
-<br>
-
-## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 
 <br>
 
@@ -77,5 +77,5 @@ You have been selected by the DC540 ANGLES OF DEATH to be the Reverse Engineer o
 
 <br>
 
-## License
+# License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
